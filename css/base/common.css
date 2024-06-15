@@ -85,8 +85,9 @@ img {
 
 /* продивитись ці стилі */
 body {
-  font-family: "", sans-serif;
-  background-color: ;
+  font-family: "Montserrat", sans-serif;
+  background-color: #f6f6fa;
+  padding: 40px 40px 40px 40px;
 }
 /* колір фону секції */
 

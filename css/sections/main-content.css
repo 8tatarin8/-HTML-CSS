@@ -1,0 +1,91 @@
+.basic-header {
+  display: flex;
+  flex-direction: row-reverse;
+  background: #ffffff;
+}
+.main-content {
+}
+.main-resume {
+  padding-left: 88px;
+  padding-top: 80px;
+  padding-right: 40px;
+  padding-bottom: 80px;
+  box-sizing: border-box;
+}
+.about-me {
+}
+.about-me-position {
+}
+.about-me-titul {
+}
+.about-me-bio {
+}
+.my-projects {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.my-projects-titul {
+}
+.projects-item {
+}
+.link-project-item {
+}
+.my-work-experience {
+  padding-bottom: 30px;
+}
+.my-work-experience-titul {
+}
+.company {
+  padding-bottom: 15px;
+}
+.my-work-experience-position {
+}
+.my-work-experience-position-freelance {
+}
+.my-work-experience-time {
+}
+.my-work-experience-list {
+}
+.my-work-experience-item {
+}
+.my-education {
+  padding-bottom: 30px;
+}
+.my-education-titul {
+}
+.my-education-academy {
+}
+.my-education-position {
+}
+.my-education-time {
+}
+.maim-aside {
+  background-color: #e0ebfe;
+}
+.my-contacts {
+  padding-top: 30px;
+}
+.my-contacts-titul {
+}
+.my-contacts-num {
+}
+.my-contacts-mail {
+}
+.tech-skills {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.tech-skills-titul {
+}
+.tech-skills-list {
+}
+.tech-skills-list-item {
+}
+.soft-skills {
+}
+.soft-skills-titul {
+}
+.soft-skills-list {
+}
+.soft-skills-item {
+}

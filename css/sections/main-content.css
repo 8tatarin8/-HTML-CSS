@@ -30,7 +30,7 @@
   line-height: 122%;
   color: #000;
   margin-top: 0;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .about-me-bio {
   font-family: var(--primary-font);
@@ -42,6 +42,7 @@
 }
 .my-projects {
   margin-bottom: 40px;
+  width: 100%;
 }
 .my-projects-titul {
   font-family: var(--primary-font);
@@ -49,7 +50,7 @@
   font-size: 22px;
   line-height: 123%;
   color: #000;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .projects-numb {
   font-family: var(--primary-font);
@@ -83,7 +84,7 @@
   font-size: 22px;
   line-height: 123%;
   color: #000;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .company {
   padding-bottom: 15px;
@@ -94,7 +95,7 @@
   font-size: 16px;
   line-height: 125%;
   color: #000;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .my-work-experience-position-freelance {
   color: #6d9bf5;
@@ -105,7 +106,7 @@
   font-size: 12px;
   line-height: 125%;
   color: #a8a8a8;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .my-work-experience-list {
   font-family: var(--primary-font);
@@ -124,28 +125,28 @@
   font-weight: 700;
   font-size: 22px;
   color: #000;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .my-education-academy {
   font-family: var(--primary-font);
   font-weight: 700;
   font-size: 16px;
   color: #6d9bf5;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .my-education-position {
   font-family: var(--primary-font);
   font-weight: 700;
   font-size: 14px;
   color: #000;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .my-education-time {
   font-family: var(--primary-font);
   font-weight: 400;
   font-size: 12px;
   color: #a8a8a8;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .maim-aside {
   background-color: #e0ebfe;
@@ -166,7 +167,7 @@
   font-weight: 700;
   font-size: 22px;
   color: #161d2a;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .my-contacts-num {
 }
@@ -193,7 +194,7 @@
   font-weight: 700;
   font-size: 22px;
   color: #161d2a;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .tech-skills-list {
   font-family: var(--primary-font);
@@ -211,7 +212,7 @@
   font-weight: 700;
   font-size: 22px;
   color: #161d2a;
-  margin-bottom: 12px;
+  margin-bottom: 8px;
 }
 .soft-skills-list {
   font-family: var(--primary-font);

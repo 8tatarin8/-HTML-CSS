@@ -15,77 +15,210 @@
 .about-me {
 }
 .about-me-position {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 121%;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 8px;
 }
 .about-me-titul {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 122%;
+  color: #000;
+  margin-top: 0;
+  margin-bottom: 12px;
 }
 .about-me-bio {
+  font-family: var(--primary-font);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
+  margin-bottom: 40px;
 }
 .my-projects {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  margin-bottom: 40px;
 }
 .my-projects-titul {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 123%;
+  color: #000;
+  margin-bottom: 12px;
+}
+.projects-numb {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 171%;
+  color: #000;
 }
 .projects-item {
+  font-family: var(--primary-font);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
 }
 .link-project-item {
+  font-family: var(--primary-font);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #005fff;
 }
 .my-work-experience {
-  padding-bottom: 30px;
+  margin-bottom: 40px;
 }
 .my-work-experience-titul {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 123%;
+  color: #000;
+  margin-bottom: 12px;
 }
 .company {
   padding-bottom: 15px;
 }
 .my-work-experience-position {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 125%;
+  color: #000;
+  margin-bottom: 12px;
 }
 .my-work-experience-position-freelance {
+  color: #6d9bf5;
 }
 .my-work-experience-time {
+  font-family: var(--primary-font);
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 125%;
+  color: #a8a8a8;
+  margin-bottom: 12px;
 }
 .my-work-experience-list {
+  font-family: var(--primary-font);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #595959;
 }
 .my-work-experience-item {
 }
 .my-education {
-  padding-bottom: 30px;
+  margin-bottom: 40px;
 }
 .my-education-titul {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 22px;
+  color: #000;
+  margin-bottom: 12px;
 }
 .my-education-academy {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 16px;
+  color: #6d9bf5;
+  margin-bottom: 12px;
 }
 .my-education-position {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 14px;
+  color: #000;
+  margin-bottom: 12px;
 }
 .my-education-time {
+  font-family: var(--primary-font);
+  font-weight: 400;
+  font-size: 12px;
+  color: #a8a8a8;
+  margin-bottom: 12px;
 }
 .maim-aside {
   background-color: #e0ebfe;
 }
+.page-aside-box {
+  margin-left: 30px;
+}
 .my-contacts {
-  padding-top: 30px;
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 171%;
+  color: #161d2a;
+  margin-top: 40px;
 }
 .my-contacts-titul {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  margin-bottom: 12px;
 }
 .my-contacts-num {
 }
-.my-contacts-mail {
+.my-contacts-link {
+  font-family: var(--primary-font);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #161d2a;
+}
+.my-contacts-link-mail {
+  text-decoration: underline;
+  text-decoration-skip-ink: none;
+  color: #2979ff;
+}
+.my-contacts-tutorial {
 }
 .tech-skills {
-  padding-top: 30px;
-  padding-bottom: 30px;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
 .tech-skills-titul {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  margin-bottom: 12px;
 }
 .tech-skills-list {
+  font-family: var(--primary-font);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #161d2a;
 }
 .tech-skills-list-item {
 }
 .soft-skills {
 }
 .soft-skills-titul {
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 22px;
+  color: #161d2a;
+  margin-bottom: 12px;
 }
 .soft-skills-list {
+  font-family: var(--primary-font);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 171%;
+  color: #161d2a;
 }
 .soft-skills-item {
 }
